@@ -50,7 +50,7 @@ Please include "ATTENTION: &lt;ET Contacts Name&gt;" in your pull request
 
 * * *
 
-##Authors
+## Authors
 
 **Adam Alexander**
 
